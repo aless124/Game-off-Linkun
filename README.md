@@ -4,8 +4,8 @@ Description :
 
 # Table of Contents
 
-1. [Getting Started](#Getting Started)
-2. [Built With](#Built With)
+1. [Getting Started](#Getting-Started)
+2. [Built With](#Built-With)
 3. [Usage](#Usage)
 4. [Status](#Status)
 
