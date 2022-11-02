@@ -8,6 +8,7 @@ Description :
 2. [Built With](#Built-With)
 3. [Usage](#Usage)
 4. [Status](#Status)
+5. [Credits](#Credit)
 
 
 ## Getting Started
@@ -32,3 +33,7 @@ You Have to download everything but you just need to launch the .exe to play it
 For any question/recommandations , please be free to msg me.
 
 Everything is made by me so sorry for the graphics .
+
+## Credit
+
+As I have said, I'm alone on this project so please be gentle and don't hope for a fully functionnal game
