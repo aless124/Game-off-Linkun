@@ -14,6 +14,7 @@ Description :
 ## Getting Started
 First of all you have to download the zip and then unzip where you want in you desktop ( just be sure to know where he is )
 Then double-click on the .exe and enjoy
+
 ## Built With
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -36,4 +37,4 @@ Everything is made by me so sorry for the graphics .
 
 ## Credit
 
-As I have said, I'm alone on this project so please be gentle and don't hope for a fully functionnal game
+As I said, I'm alone on this project so please be gentle and don't hope for a fully functionnal game
