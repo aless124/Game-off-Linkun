@@ -1,5 +1,13 @@
 # Game-off-Linkun
 
+
+[![Contributors][contributors-shield]][contributors-url]
+
+
+[![Stargazers][stars-shield]][stars-url]
+
+#
+
 Description : 
 
 # Table of Contents
@@ -38,3 +46,12 @@ Everything is made by me so sorry for the graphics .
 ## Credit
 
 As I said, I'm alone on this project so please be gentle and don't hope for a fully functionnal game
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/aless124/Game-off-Linkun.svg?style=for-the-badge
+[contributors-url]: https://github.com/aless124/Game-off-Linkun/graphs/contributors
+
+[stars-shield]: https://img.shields.io/github/stars/aless124/Game-off-Linkun.svg?style=for-the-badge
+[stars-url]: https://github.com/aless124/Game-off-Linkun/stargazers
